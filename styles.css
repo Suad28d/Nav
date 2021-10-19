@@ -1,0 +1,22 @@
+body{
+  font-size: 16px
+  margin:0;
+  padding: 0;
+}
+nav{
+  background-color: lightgray;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+nav a{
+  text-decoration: none;
+  padding: 5px;
+  margin: 5px;
+  color: red
+}
+nav a:hover{
+  /* text-decoration: overline underline; */
+
+  border-bottom: 1px solid white;
+}
